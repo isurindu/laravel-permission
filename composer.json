@@ -55,14 +55,6 @@
                 "Spatie\\Permission\\PermissionServiceProvider"
             ]
         }
-    },
-     "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/isurindu/laravel-permission"
-        }
-    ],
-    "require": {
-        "spatie/laravel-permission": "dev-bugfix"
     }
+    
 }
