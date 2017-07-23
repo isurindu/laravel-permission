@@ -1,5 +1,5 @@
 {
-    "name": "isurindu/laravel-permission",
+    "name": "spatie/laravel-permission",
     "description": "Permission handling for Laravel 5.4 and up",
     "keywords": [
         "spatie",
@@ -8,7 +8,7 @@
         "acl",
         "security"
     ],
-    "homepage": "https://github.com/isurindu/laravel-permission",
+    "homepage": "https://github.com/spatie/laravel-permission",
     "license": "MIT",
     "authors": [
         {
@@ -55,6 +55,5 @@
                 "Spatie\\Permission\\PermissionServiceProvider"
             ]
         }
-    },
-     "prefer-stable": true
+    }
 }
