@@ -55,5 +55,6 @@
                 "Spatie\\Permission\\PermissionServiceProvider"
             ]
         }
-    }
+    },
+     "prefer-stable": true
 }
